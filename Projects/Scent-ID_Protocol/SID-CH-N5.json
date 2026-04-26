@@ -1,0 +1,16 @@
+{
+  "sid_index": "SID-CH-N5",
+  "brand": "Chanel",
+  "name": "No. 5",
+  "version": "v1.0.0",
+  "coordinates": {
+    "S-042": 88,
+    "S-115": 72,
+    "S-201": 45
+  },
+  "certification": {
+    "status": "active",
+    "issued_by": "Scent-ID Foundation",
+    "verified_via": "SHA-256"
+  }
+}
